@@ -30,5 +30,5 @@ two-min-degree: 0
 e: 3754
 two-density: 0.026270576431908443
 two-diameter: 6
-two-size-lcc: 1980
+two-lcc: 1980
 ---
