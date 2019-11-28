@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Orkut Communities"
-page: orkut-communities
+title: "Live-Journal Communities"
+page: livejournal-communities
 date:   2019-11-03 11:30:41 -0300
 description: "LiveJournal is a free on-line blogging community where users declare friendship each other. LiveJournal also allows users form a group which other members can then join. We consider such user-defined groups as ground-truth communities. We provide the LiveJournal friendship social network and ground-truth communities. We regard each connected component in a group as a separate ground-truth community. We remove the ground-truth communities which have less than 3 nodes. We also provide the top 5,000 communities with highest quality which are described in our paper. As for the network, we provide the largest connected component."
 data-name: file
