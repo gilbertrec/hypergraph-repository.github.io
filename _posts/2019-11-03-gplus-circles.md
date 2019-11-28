@@ -13,8 +13,8 @@ icon: 'credit-card'
 size: 0.5
 vertex-type: user
 edge-type: circle
-vertex-meta: -
-edge-meta: -
+vertex-meta: none
+edge-meta: none
 v: 32
 e: 10
 max-e-size: 4
