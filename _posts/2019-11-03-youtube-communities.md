@@ -3,9 +3,7 @@ layout: post
 title: "Youtube Communities"
 page: youtube-communities
 date:   2019-11-03 11:30:41 -0300
-description: "Youtube is a video-sharing web site that includes a social network. In the Youtube social network, users form friendship each other and users can create groups which other users can join. We consider such user-defined groups as ground-truth communities. This data is provided by Alan Mislove et al.
-
-We regard each connected component in a group as a separate ground-truth community. We remove the ground-truth communities which have less than 3 nodes. We also provide the top 5,000 communities with highest quality which are described in our paper. As for the network, we provide the largest connected component."
+description: "Youtube is a video-sharing web site that includes a social network. In the Youtube social network, users form friendship each other and users can create groups which other users can join. We consider such user-defined groups as ground-truth communities. This data is provided by Alan Mislove et al.We regard each connected component in a group as a separate ground-truth community. We remove the ground-truth communities which have less than 3 nodes. We also provide the top 5,000 communities with highest quality which are described in our paper. As for the network, we provide the largest connected component."
 data-name: file
 link: http://hypergraph-repository.github.io/-datasets/com-youtube.top5000.cmty.hgf
 categories: online-communities
